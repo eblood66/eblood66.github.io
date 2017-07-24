@@ -1,5 +1,5 @@
 -qYC2%Px%x%q0s2u1%s%uN1%I0p3DaK0H0%kf2o0A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://sites.google.com/site/abyouthliturature/ -O1 "C:\temp\sites\Spy Lit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*schema.org/*
-File generated automatically on Mon, 24 Jul 2017 19:02:24, do NOT edit
+File generated automatically on Mon, 24 Jul 2017 19:44:19, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
