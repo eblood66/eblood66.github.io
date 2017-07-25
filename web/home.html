@@ -204,17 +204,19 @@ window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1
           JOT_postEvent('usercontentrendered', this);
         </script>
 
-  <div id="mask" style="position: fixed; top:5vw; left:5vw; width:200px; height:200px; border-radius: 100%; z-index: 99; box-shadow: 0 0 0 200vw #FFF;"></div>
+  <div id="mask" style="position: fixed; top:60px; left:60px; width:200px; height:200px; border-radius: 100%; z-index: 99; box-shadow: 0 0 0 200vw #FFF;"></div>
 
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"
           integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
           crossorigin="anonymous"></script>
 
   <script>
-        $('#mask').animate({ left: "70vw", top: "1vh" }, { duration: 2500, queue: true })
-                  .animate({ left: "30vw", top: "20vh" }, { duration: 1750, queue: true })
-                  .animate({ left: "60vw", top: "40vh" }, { duration: 1750, queue: true })
-                  .animate({ left: "40vw", top: "40vh" }, { duration: 1200, queue: true })
+        $('#mask').animate({ left: "60px", top: "60px" }, { duration: 1000, queue: true })
+                  .animate({ left: "60px", top: "250px" }, { duration: 1000, queue: true })
+                  .animate({ left: "70vw", top: "5px" }, { duration: 2500, queue: true })
+                  .animate({ left: "30vw", top: "400px" }, { duration: 1750, queue: true })
+                  .animate({ left: "85vw", top: "450px" }, { duration: 1750, queue: true })
+                  .animate({ left: "45vw", top: "40vh" }, { duration: 1400, queue: true })
                   .animate({ left: "-200vw", top: "-200vw", width: "400vw", height: "400vw" }, { duration: 1000, queue: true })
                   .hide({ duration: 0, queue: true});
   </script>
