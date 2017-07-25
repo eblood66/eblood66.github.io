@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 24 Jul 2017 22:06:18 at https://sites.google.com/site/abyouthliturature/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*schema.org/*
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Jul 2017 10:23:00 at https://sites.google.com/site/abyouthliturature/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*schema.org/*
 (winhttrack -qYC2%Px%x%q0s2u1%s%uN1%I0p3DaK0H0%kf2o0A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://sites.google.com/site/abyouthliturature/ -O1 "C:\temp\sites\Spy Lit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*schema.org/* )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,14 +6,14 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-22:06:25	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://gg.google.com/csi
-22:06:42	Warning: 	Link https://sites.google.com/site/abyouthliturature/system/app/pages/reportAbuse not scanned (follow robots meta tag)
-22:06:44	Warning: 	Moved Temporarily for sites.google.com/
-22:06:44	Warning: 	Redirected link is identical because of 'URL Hack' option: sites.google.com/ and https://sites.google.com/
-22:06:44	Warning: 	File has moved from sites.google.com/ to https://sites.google.com/
-22:06:46	Error: 	"Bad Request" (400) at link https://sites.google.com/site/abyouthliturature/_/tz (from https://sites.google.com/site/abyouthliturature/)
-22:06:46	Error: 	"No Content" (204) at link https://gg.google.com/csi (from https://sites.google.com/site/abyouthliturature/)
-22:06:47	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/abyouthliturature/_/rsrc/1499966776000/system/app/css/camelot/error.css)
+10:23:11	Warning: 	file not stored in cache due to bogus state (incomplete type with No Content (204), size 0): https://gg.google.com/csi
+10:23:48	Warning: 	Link https://sites.google.com/site/abyouthliturature/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+10:24:06	Warning: 	Moved Temporarily for sites.google.com/
+10:24:06	Warning: 	Redirected link is identical because of 'URL Hack' option: sites.google.com/ and https://sites.google.com/
+10:24:06	Warning: 	File has moved from sites.google.com/ to https://sites.google.com/
+10:24:14	Error: 	"Bad Request" (400) at link https://sites.google.com/site/abyouthliturature/_/tz (from https://sites.google.com/site/abyouthliturature/)
+10:24:16	Error: 	"No Content" (204) at link https://gg.google.com/csi (from https://sites.google.com/site/abyouthliturature/)
+10:24:16	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/abyouthliturature/_/rsrc/1499966776000/system/app/css/camelot/error.css)
 
-HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 86 links scanned, 79 files written (5550670 bytes overall), 44 files updated [2306247 bytes received at 79525 bytes/sec], 508518 bytes transferred using HTTP compression in 45 files, ratio 27%
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 86 links scanned, 79 files written (5550499 bytes overall), 19 files updated [2157549 bytes received at 28388 bytes/sec], 36798 bytes transferred using HTTP compression in 22 files, ratio 40%
 (3 errors, 5 warnings, 0 messages)
